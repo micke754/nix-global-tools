@@ -28,10 +28,9 @@
       paths = with pkgs; [
 
         zig
-        cmake
-        libgcc
 
         nushell
+	starship
         zellij
         mprocs
         bat
@@ -41,6 +40,7 @@
         ripgrep
 
         neovim
+	gh
         fzf
         fd
         fastfetch
