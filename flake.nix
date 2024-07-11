@@ -30,7 +30,7 @@
         zig
 
         nushell
-	starship
+        starship
         zellij
         mprocs
         bat
@@ -38,15 +38,16 @@
         speedtest-rs
         yazi
         ripgrep
-	rustup
+        rustup
 
         neovim
-	gh
+        gh
         fzf
         fd
         fastfetch
-	lazygit
+        lazygit
         quarto
+        curl
 
       ];
 
