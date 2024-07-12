@@ -34,6 +34,7 @@
         zellij
         mprocs
         bat
+        eza
         uutils-coreutils
         speedtest-rs
         yazi
