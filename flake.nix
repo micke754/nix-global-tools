@@ -50,7 +50,7 @@
         zellij
 
         # Other utilities
-        # neovim
+        neovim
         entr
         tmux
         curl
