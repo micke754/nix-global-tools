@@ -27,28 +27,39 @@
 
       paths = with pkgs; [
 
+        # languages
         zig
+        uv
+        pixi
+        pipx
 
-        nushell
-        starship
-        zellij
-        mprocs
+        # Rustup userland
         bat
+        dust
         eza
-        uutils-coreutils
-        speedtest-rs
-        yazi
+        gitui
+        mprocs
+        porsmo
         ripgrep
         rustup
+        speedtest-rs
+        starship
+        uutils-coreutils
+        wiki-tui
+        yazi
+        zellij
 
-        neovim
-        gh
-        fzf
-        fd
+        # Other utilities
+        # neovim
+        entr
+        tmux
+        curl
         fastfetch
+        fd
+        fzf
+        gh
         lazygit
         quarto
-        curl
 
       ];
 
