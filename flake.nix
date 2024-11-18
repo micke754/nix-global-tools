@@ -1,6 +1,6 @@
 {
 
-  description = "Global packages for R, Zig, and Neovim";
+  description = "Installing Global Tools with Nix";
 
 
 
@@ -29,7 +29,7 @@
 
         # languages
         zig
-        uv
+        #uv
         pixi
         pipx
 
