@@ -43,7 +43,7 @@
         ripgrep
         rustup
         speedtest-rs
-        starship
+        #starship
         uutils-coreutils
         wiki-tui
         yazi
