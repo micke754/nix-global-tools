@@ -53,12 +53,13 @@
 
         # Neovim
         neovim
-        texliveFull
-        wl-clipboard
-        xsel
-        xdg-utils
         sqlfluff
+        texliveFull
+        unzip
         vale
+        wl-clipboard
+        xdg-utils
+        xsel
 
 
         # Other utilities
