@@ -28,12 +28,14 @@
       paths = with pkgs; [
 
         # languages
-        zig
         #uv
-        pixi
+        npm
         pipx
+        pixi
+        zig
 
         # Rustup userland
+        #starship
         bat
         dust
         eza
@@ -43,23 +45,33 @@
         ripgrep
         rustup
         speedtest-rs
-        #starship
+        tree-sitter
         uutils-coreutils
         wiki-tui
         yazi
         zellij
 
-        # Other utilities
+        # Neovim
         neovim
-        entr
-        tmux
+        texliveFull
+        wl-clipboard
+        xdg-utils
+        sqlfluff
+        python312Packages.sqlfmt
+        vale
+
+
+        # Other utilities
         curl
+        duckdb
+        entr
         fastfetch
         fd
         fzf
         gh
         lazygit
         quarto
+        tmux
 
       ];
 
