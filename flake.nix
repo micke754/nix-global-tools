@@ -28,11 +28,11 @@
       paths = with pkgs; [
 
         # languages
-        #uv
-        nodejs_23
+	nodejs_22
         pipx
         pixi
         zig
+	#uv
 
         # Rustup userland
         #starship
@@ -54,10 +54,9 @@
         # Neovim
         neovim
         texliveFull
-        wl-clipboard
+        #wl-clipboard
         xdg-utils
         sqlfluff
-        python312Packages.sqlfmt
         vale
 
 
