@@ -54,7 +54,8 @@
         # Neovim
         neovim
         texliveFull
-        #wl-clipboard
+        wl-clipboard
+        xsel
         xdg-utils
         sqlfluff
         vale
