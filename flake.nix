@@ -29,7 +29,7 @@
 
         # languages
         #uv
-        npm
+        nodejs_23
         pipx
         pixi
         zig
