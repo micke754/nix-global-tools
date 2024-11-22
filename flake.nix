@@ -54,7 +54,7 @@
         # Neovim
         neovim
         sqlfluff
-        texliveFulr
+        texliveFull
         unzip
         vale
         # wl-clipboard
