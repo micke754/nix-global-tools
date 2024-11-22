@@ -57,7 +57,7 @@
         texliveFull
         unzip
         vale
-        wl-clipboard
+        # wl-clipboard
         xdg-utils
         xsel
 
