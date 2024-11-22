@@ -32,7 +32,7 @@
         pipx
         pixi
         zig
-	#uv
+        uv
 
         # Rustup userland
         #starship
@@ -54,7 +54,7 @@
         # Neovim
         neovim
         sqlfluff
-        texliveFull
+        texliveFulr
         unzip
         vale
         # wl-clipboard
