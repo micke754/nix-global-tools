@@ -28,7 +28,7 @@
       paths = with pkgs; [
 
         # languages
-	nodejs_22
+      	nodejs_22
         pipx
         pixi
         zig
@@ -50,6 +50,7 @@
         wiki-tui
         yazi
         zellij
+        zoxide
 
         # Neovim
         neovim
@@ -73,6 +74,7 @@
         lazygit
         quarto
         tmux
+        tldr
 
       ];
 
