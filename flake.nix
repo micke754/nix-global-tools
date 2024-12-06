@@ -28,9 +28,8 @@
       paths = with pkgs; [
 
         # languages
-      	nodejs_22
+        nushell
         pipx
-        pixi
         zig
         uv
 
@@ -57,11 +56,21 @@
         sqlfluff
         texliveFull
         unzip
-        vale
-        # wl-clipboard
         xdg-utils
         xsel
 
+        # helix stuff
+        helix-gpt
+        ansible-language-server
+        harper
+        helix-gpt
+        markdown-oxide
+        prettierd
+        sqls
+        taplo
+        vale-ls
+        vale
+        yaml-language-server
 
         # Other utilities
         curl
