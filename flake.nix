@@ -2,16 +2,11 @@
 
   description = "Installing Global Tools with Nix";
 
-
-
   inputs = {
 
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
-#    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";# Current stable relese
 
   };
-
-
 
   outputs = { self, nixpkgs }: let
 
@@ -28,13 +23,13 @@
       paths = with pkgs; [
 
         # languages
-        nushell
+        # nushell
+        carapace
         pipx
-        zig
-        uv
+	bun
 
         # Rustup userland
-        #starship
+        # starship
         bat
         dust
         eza
@@ -60,10 +55,9 @@
         xsel
 
         # helix stuff
-        helix-gpt
+        helix
         ansible-language-server
-        harper
-        helix-gpt
+        # helix-gpt
         markdown-oxide
         prettierd
         sqls
