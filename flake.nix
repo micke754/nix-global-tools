@@ -26,7 +26,8 @@
         # nushell
         carapace
         pipx
-	bun
+      	bun
+        nil
 
         # Rustup userland
         # starship
