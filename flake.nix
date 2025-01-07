@@ -53,10 +53,9 @@
         texliveFull
         unzip
         xdg-utils
-        xsel
 
         # helix stuff
-        helix
+        # helix
         ansible-language-server
         # helix-gpt
         markdown-oxide
