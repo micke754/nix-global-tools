@@ -35,6 +35,7 @@
         dust
         eza
         gitui
+        lsd
         mprocs
         porsmo
         ripgrep
