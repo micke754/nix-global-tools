@@ -53,6 +53,7 @@
         texliveFull
         unzip
         xdg-utils
+        xsel
 
         # helix stuff
         # helix
@@ -78,6 +79,9 @@
         quarto
         tmux
         tldr
+        tt
+        ttyper
+        gtypist
 
       ];
 
