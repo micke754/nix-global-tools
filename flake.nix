@@ -45,7 +45,7 @@
         uutils-coreutils
         wiki-tui
         yazi
-        zellij
+        # zellij
         zoxide
 
         # Neovim
