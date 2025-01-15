@@ -74,6 +74,7 @@
         entr
         fastfetch
         fd
+        fx
         fzf
         gh
         lazygit
