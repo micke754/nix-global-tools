@@ -22,13 +22,6 @@
 
       paths = with pkgs; [
 
-        # languages
-        # nushell
-        carapace
-        pipx
-      	bun
-        nil
-
         # Rustup userland
         # starship
         bat
@@ -50,23 +43,10 @@
 
         # Neovim
         neovim
-        sqlfluff
         texliveFull
         unzip
         xdg-utils
         xsel
-
-        # helix stuff
-        # helix
-        ansible-language-server
-        # helix-gpt
-        markdown-oxide
-        prettierd
-        sqls
-        taplo
-        vale-ls
-        vale
-        yaml-language-server
 
         # Other utilities
         curl
