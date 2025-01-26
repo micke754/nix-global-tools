@@ -30,6 +30,7 @@
         gitui
         lsd
         mprocs
+        ncspot
         porsmo
         ripgrep
         rustup
