@@ -53,6 +53,7 @@
         curl
         duckdb
         entr
+        exercism
         fastfetch
         fd
         fx
