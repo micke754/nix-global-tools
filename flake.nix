@@ -62,7 +62,7 @@
         lazygit
         quarto
         tmux
-        tldr
+        tealdeer
         tt
         ttyper
         gtypist
