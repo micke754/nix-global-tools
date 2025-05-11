@@ -23,7 +23,6 @@
       paths = with pkgs; [
 
         # Rustup userland
-        # starship
         bat
         dust
         eza
@@ -35,12 +34,14 @@
         ripgrep
         rustup
         speedtest-rs
+        tealdeer
         tree-sitter
         uutils-coreutils
         wiki-tui
         yazi
-        # zellij
         zoxide
+        # zellij
+        # starship
 
         # Neovim
         neovim
@@ -59,13 +60,12 @@
         fx
         fzf
         gh
+        gtypist
         lazygit
         quarto
+        stow
         tmux
-        tealdeer
-        tt
         ttyper
-        gtypist
 
       ];
 
