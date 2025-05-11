@@ -10,7 +10,7 @@
 
   outputs = { self, nixpkgs }: let
 
-    system = "x86_64-linux";
+    system = "aarch64-darwin";
 
     pkgs = import nixpkgs { inherit system; };
 
@@ -31,7 +31,7 @@
         lsd
         mprocs
         ncspot
-        porsmo
+        # porsmo
         ripgrep
         rustup
         speedtest-rs
@@ -39,15 +39,15 @@
         uutils-coreutils
         wiki-tui
         yazi
-        # zellij
+        zellij
         zoxide
 
         # Neovim
         neovim
         texliveFull
         unzip
-        xdg-utils
-        xsel
+        # xdg-utils
+        # xsel
 
         # Other utilities
         curl
@@ -63,7 +63,7 @@
         quarto
         tmux
         tealdeer
-        tt
+        tuckr # stow replacement
         ttyper
         gtypist
 
