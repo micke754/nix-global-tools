@@ -1,6 +1,6 @@
 {
 
-  description = "Installing Global Tools with Nix";
+  description = "Installing Dev Tools with Nix";
 
   inputs = {
 
@@ -46,7 +46,7 @@
         # Neovim
         neovim
         texliveFull
-        unzip
+        # unzip
         xdg-utils
         xsel
 
