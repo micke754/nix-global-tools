@@ -46,8 +46,6 @@
         neovim
         texliveFull
         unzip
-        # xdg-utils
-        # xsel
 
         # Other utilities
         curl
@@ -59,13 +57,13 @@
         fx
         fzf
         gh
+        gtypist
         lazygit
         quarto
-        tmux
+        stow
         tealdeer
-        tuckr # stow replacement
+        tmux
         ttyper
-        gtypist
 
       ];
 
