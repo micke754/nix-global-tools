@@ -59,6 +59,7 @@
         fd
         fx
         fzf
+        gitleaks
         gh
         gtypist
         lazygit
