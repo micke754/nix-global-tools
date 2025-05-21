@@ -61,8 +61,10 @@
         fzf
         gitleaks
         gh
+        glow
         gtypist
         lazygit
+        mods
         quarto
         stow
         tmux
