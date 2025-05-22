@@ -59,6 +59,7 @@
         fd
         fx
         fzf
+        git-credential-manager
         gitleaks
         gh
         glow
