@@ -39,7 +39,7 @@
         uutils-coreutils
         wiki-tui
         yazi
-        zoxide
+        # zoxide
         # zellij
         # starship
 
@@ -58,7 +58,7 @@
         fastfetch
         fd
         fx
-        fzf
+        # fzf
         git-credential-manager
         gitleaks
         gh
