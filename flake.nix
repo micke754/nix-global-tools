@@ -27,6 +27,7 @@
         bat
         dust
         eza
+        fish
         gitui
         lsd
         mprocs
@@ -49,6 +50,7 @@
 
         # Other utilities
         curl
+        carapace
         duckdb
         entr
         exercism
