@@ -24,6 +24,7 @@
 
         # Rustup userland
         bat
+        delta
         dust
         eza
         gitui
