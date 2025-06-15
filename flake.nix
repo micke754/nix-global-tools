@@ -49,8 +49,8 @@
         unzip
 
         # Other utilities
-        curl
         carapace
+        curl
         duckdb
         entr
         exercism
@@ -61,8 +61,10 @@
         gh
         glow
         gtypist
+        kepubify
         lazygit
         mods
+        pandoc
         quarto
         stow
         tealdeer
