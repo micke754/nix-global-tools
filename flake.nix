@@ -54,6 +54,7 @@
 
         # Other utilities
         curl
+        carapace
         duckdb
         entr
         exercism
@@ -68,6 +69,7 @@
         gtypist
         lazygit
         mods
+        pandoc
         quarto
         slides
         stow
