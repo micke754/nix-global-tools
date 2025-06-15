@@ -31,6 +31,7 @@
         lsd
         mprocs
         ncspot
+        presenterm
         porsmo
         ripgrep
         rustup
@@ -68,6 +69,7 @@
         lazygit
         mods
         quarto
+        slides
         stow
         tmux
         ttyper
