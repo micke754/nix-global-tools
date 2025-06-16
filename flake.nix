@@ -30,6 +30,7 @@
         fish
         gitui
         lsd
+        presenterm
         mprocs
         ncspot
         # porsmo
