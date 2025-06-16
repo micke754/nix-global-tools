@@ -67,6 +67,7 @@
         gh
         glow
         gtypist
+        harlequin
         lazygit
         mermaid-cli
         mods
@@ -76,6 +77,7 @@
         stow
         tmux
         ttyper
+        typer
 
       ];
 
