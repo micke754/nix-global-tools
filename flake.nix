@@ -68,6 +68,7 @@
         glow
         gtypist
         lazygit
+        mermaid-cli
         mods
         pandoc
         quarto
