@@ -37,6 +37,7 @@
         rustup
         speedtest-rs
         tealdeer
+        tokei
         tree-sitter
         uutils-coreutils
         wiki-tui
