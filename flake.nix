@@ -67,7 +67,6 @@
         gh
         glow
         gtypist
-        harlequin
         lazygit
         mermaid-cli
         mods
