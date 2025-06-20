@@ -64,6 +64,7 @@
         fx
         # fzf
         git-credential-manager
+        gitingest
         gitleaks
         gh
         glow
