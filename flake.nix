@@ -71,7 +71,7 @@
         gtypist
         lazygit
         mermaid-cli
-        # mods switching to my fork for testing
+        mods 
         pandoc
         quarto
         slides
