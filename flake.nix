@@ -64,6 +64,7 @@
         gtypist
         kepubify
         lazygit
+        gitingest
         mods
         pandoc
         quarto
