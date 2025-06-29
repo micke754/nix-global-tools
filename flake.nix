@@ -60,11 +60,12 @@
         fx
         fzf
         gh
+        gitingest
         glow
         gtypist
+        gum
         kepubify
         lazygit
-        gitingest
         mods
         pandoc
         quarto
