@@ -68,6 +68,7 @@
         lazygit
         mods
         pandoc
+        pass
         quarto
         stow
         tealdeer
