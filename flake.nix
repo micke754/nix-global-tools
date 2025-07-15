@@ -1,6 +1,6 @@
 {
 
-  description = "Installing Dev Tools with Nix";
+  description = "Installing developer tooling with Nix with few updates.";
 
   inputs = {
 
@@ -18,7 +18,7 @@
 
     packages.${system}.default = pkgs.buildEnv {
 
-      name = "global-packages";
+      name = "dev_tooling_stable";
 
       paths = with pkgs; [
 
