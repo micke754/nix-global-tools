@@ -63,6 +63,7 @@
         fd
         fx
         # fzf
+        gcalcli
         git-credential-manager
         gitingest
         gitleaks
