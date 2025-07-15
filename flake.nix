@@ -48,7 +48,7 @@
 
         # Neovim
         neovim
-        texliveFull
+        # texliveFull
         # unzip
         xdg-utils
         xsel
