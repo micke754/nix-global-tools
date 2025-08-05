@@ -30,15 +30,17 @@
         fish
         gitui
         lsd
-        presenterm
         mprocs
         ncspot
-        # porsmo
+        porsmo
+        presenterm
         ripgrep
         rustup
         speedtest-rs
-        tree-sitter
+        tealdeer
+        tokei
         topiary
+        tree-sitter
         uutils-coreutils
         wiki-tui
         yazi
@@ -49,6 +51,11 @@
         neovim
         texliveFull
         unzip
+
+        # Charm
+        glow
+        gum
+        mods
 
         # Other utilities
         carapace
@@ -62,17 +69,14 @@
         fzf
         gh
         gitingest
-        glow
         gtypist
-        gum
         kepubify
         lazygit
-        mods
+        mermaid-cli
         pandoc
         pass
         quarto
         stow
-        tealdeer
         tmux
         ttyper
 
