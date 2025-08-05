@@ -1,6 +1,6 @@
 {
 
-  description = "Installing Global Tools with Nix";
+  description = "Installing Dev Tools with a Flake";
 
   inputs = {
 
@@ -18,7 +18,7 @@
 
     packages.${system}.default = pkgs.buildEnv {
 
-      name = "global-packages";
+      name = "dev-tooling-flake";
 
       paths = with pkgs; [
 
@@ -49,7 +49,7 @@
 
         # Neovim
         neovim
-        texliveFull
+      	# texliveFull
         unzip
 
         # Charm
