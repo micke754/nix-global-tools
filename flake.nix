@@ -38,6 +38,7 @@
         rustup
         speedtest-rs
         tree-sitter
+        topiary
         uutils-coreutils
         wiki-tui
         yazi
