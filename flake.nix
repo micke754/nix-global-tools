@@ -32,7 +32,7 @@
         lsd
         mprocs
         ncspot
-        porsmo
+        # porsmo
         presenterm
         ripgrep
         rustup
