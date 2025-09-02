@@ -24,7 +24,9 @@
 
         # Rustup userland
         # starship
+
         bat
+        bk
         dust
         eza
         fish
@@ -32,7 +34,6 @@
         lsd
         mprocs
         ncspot
-        # porsmo
         presenterm
         ripgrep
         rustup
