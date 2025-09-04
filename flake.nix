@@ -73,6 +73,7 @@
         lazygit
         mermaid-cli
         mods 
+        ocrmypdf
         pandoc
         quarto
         slides
