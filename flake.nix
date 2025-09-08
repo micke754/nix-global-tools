@@ -74,6 +74,7 @@
         kepubify
         lazygit
         mermaid-cli
+        ocrmypdf
         pandoc
         pass
         quarto
