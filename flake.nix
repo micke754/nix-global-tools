@@ -44,7 +44,7 @@
         yazi
         zoxide
         zellij
-        starship
+        # starship
 
         # Neovim
         neovim
@@ -62,7 +62,7 @@
         fastfetch
         fd
         fx
-        fzf
+        # fzf
         gcalcli
         git-credential-manager
         gitingest
