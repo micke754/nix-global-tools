@@ -42,9 +42,9 @@
         uutils-coreutils
         wiki-tui
         yazi
-        # zoxide
-        # zellij
-        # starship
+        zoxide
+        zellij
+        starship
 
         # Neovim
         neovim
