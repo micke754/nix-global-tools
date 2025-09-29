@@ -62,7 +62,7 @@
         fastfetch
         fd
         fx
-        # fzf
+        fzf
         gcalcli
         git-credential-manager
         gitingest
@@ -71,6 +71,7 @@
         glow
         gtypist
         lazygit
+        man
         mermaid-cli
         mods 
         ocrmypdf
