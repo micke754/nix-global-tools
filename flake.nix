@@ -30,7 +30,7 @@
         gitui
         lsd
         mprocs
-        ncspot
+        # ncspot
         presenterm
         porsmo
         ripgrep
