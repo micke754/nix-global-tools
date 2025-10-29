@@ -51,7 +51,7 @@
         # texliveFull
         # unzip
         xdg-utils
-        xsel
+        # xsel
 
         # Other utilities
         curl
